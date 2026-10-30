@@ -1,6 +1,6 @@
 """Minimal tests."""
 
-from scope_base import Item, parse
+from vault_patch import Item, parse
 
 
 def test_item_holds_values():
